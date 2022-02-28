@@ -33,4 +33,5 @@ Each round is given equal weightage. Marks awarded in each round is final, no ma
 4. The total value of bonus points earned by an individual for asking questions during presentations will be 5 Marks.
 5. Three marks will be held back from each presentation to see if the team has followed through on the concepts presented. 
 
+#### Components Used
 ![plot](readme-data/img2.png)
